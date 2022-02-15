@@ -1,6 +1,6 @@
 # barcode
 
-adding to the following code a code fragment in assembly language, which for the ASCII character (placed in AL register) 
-from the allowed alphabet ('0-9' and 'A-Z' without 'O') will generate a bar code BC412 and put it in memory at the address 
-indicated by EDI. In addition, values for the checksum were determined.
+A code fragment was written in assembly language, which for an ASCII character (placed in the AL register)
+from the allowed alphabet ('0-9' and 'A-Z' without 'O') will generate the BC412 barcode and store it in memory at address
+indicated by EDI. Additionally, the values ​​of the checksum were determined.
 
